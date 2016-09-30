@@ -1,2 +1,2 @@
-# max.duersteler-untere-weinegg.ch
-Player bulit T-maze
+# TMaze
+Player built T-maze
